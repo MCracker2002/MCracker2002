@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @MCracker2002
-- 👀 I’m interested in Hacking...
-- 🌱 I’m currently learning ...
-- 💞️  ...
-- 📫 How to reach me 
-go to my websites https://www.crackcodes.xyz and https://www.crackcodes.in/   ...
+
 
 <!---
 MCracker2002/MCracker2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hi, I'm Pro Mcracker <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&color=%234E14B8&size=24&lines=I'am+Filipino+IT+Specialist.;Cyber+Security+Analyst;Cloud+Data+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=neuropol&color=%234E14B8&size=24&lines=I'am+WEB+Pentester.;Cyber+Security+Analyst;Web+developer;Blogger)](https://git.io/typing-svg)
 
 📫 Connect with me:
 
